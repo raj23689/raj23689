@@ -28,5 +28,6 @@
 <br><br><br>
 <h2 align="center"> My stats... </h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raj23689&langs_count=8&count_private=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=raj23689&langs_count=5&theme=tokyonight)]()
+
 
