@@ -12,7 +12,7 @@
 - 🐍 Python and C addict
 - 💚 Love to commit a lot
 - 💲 Vim n VScode
-- 💿 Full time Linux Use
+- 💿 Full time Linux User
 
 <br><br><br>
 <h2 align="center"> I use Arch BTW! </h2>
