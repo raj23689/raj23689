@@ -1,16 +1,33 @@
-### Hi there 👋
+<h1 align="center">Hello, my name is <b><i>Raj</i></b></h1>
 
-<!--
-**raj23689/raj23689** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br><br><br><br>
 
-Here are some ideas to get you started:
+<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+*Some not-so interesting facts I have:*
+- 🤖 I love developing automated tasks, whether it is useful or not </li>
+- 📚 Usually watch anime and read manga from time to time </li>
+- 🎓 Student 
+- 🐍 Python and C addict
+- 💚 Love to commit a lot
+- 💲 Vim n VScode
+- 💿 Full time Linux Use
+
+<br><br><br>
+<h2 align="center"> I use Arch BTW! </h2>
+<p align="center">
+  <img align="center" alt="GIF" src="https://static.apester.com/user-images/66/66990c9c68ef205ac02683b905a15dc5.gif" />
+</p>
+
+<br><br><br>
+<h2 align="center"> Github stats go brrrr! </h2>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=raj23689&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+
+<br><br><br>
+<h2 align="center"> My stats... </h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raj23689&langs_count=8&count_private=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
