@@ -28,6 +28,6 @@
 <br><br><br>
 <h2 align="center"> My stats... </h2>
 
-[![My GitHub Language Stats]([![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=raj23689&langs_count=8&&count_private=true&theme=dracula)]()
 
 
