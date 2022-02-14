@@ -28,6 +28,6 @@
 <br><br><br>
 <h2 align="center"> My stats... </h2>
 
-[![My GitHub Language Stats]<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj23689&layout=compact&theme=onedark&langs_count=6&hide_border=true&title_color=a9b665&icon_color=e3a84e&text_color=dfbf8e&bg_color=282828&custom_title=My&nbsp;Language&nbsp;Stats" alt="GitHub readme stats" width=405px>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj23689&layout=compact&theme=onedark&langs_count=6&hide_border=true&title_color=a9b665&icon_color=e3a84e&text_color=dfbf8e&bg_color=282828&custom_title=My&nbsp;Language&nbsp;Stats" alt="GitHub readme stats" width=405px>
 
 
