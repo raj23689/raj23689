@@ -9,7 +9,7 @@
 - 🤖 I love developing automated tasks, whether it is useful or not </li>
 - 📚 Usually watch anime and read manga from time to time </li>
 - 🎓 Student 
-- 🐍 Python and C addict
+- 🐍 Python and C nad Rust addict
 - 💚 Love to commit a lot
 - 💲 Vim n VScode
 - 💿 Full time Linux User
